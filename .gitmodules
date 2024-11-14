@@ -1,0 +1,6 @@
+[submodule "themes/cactus-dark"]
+	path = themes/cactus-dark
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
