@@ -1,3 +1,9 @@
 [submodule "dark-theme-editor"]
 	path = dark-theme-editor
 	url = https://github.com/JingWangTW/dark-theme-editor
+[submodule "hugo-theme-m10c"]
+	path = hugo-theme-m10c
+	url = https://github.com/vaga/hugo-theme-m10c
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
