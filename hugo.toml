@@ -1,11 +1,39 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dgmeeyuh.github.io/dgmi/'
 languageCode = 'en-us'
 title = 'digitally mi'
 description = 'Follow my journey in life and disc golf!'
 theme = "anatole"
+author = "Mia"
+paginate = 5
+enableRobotsTXT = true
+googleAnalytics = "G-YE37X7B4QB"
 
 [params]
-github = "dgmeeyuh"
-linkedin = "mialofton"
-instagram = "dgmi_"
-facebook = "dgmi116281"
+email = "mia.g.lofton@gmail.com"
+github = "https://github.com/dgmeeyuh"
+linkedin = "https://linkedin.com/in/mialofton"
+instagram = "https://instagram.com/dgmi_"
+facebook = "https://facebook.com/dgmi116281"
+logo = "images/logo.png"
+footerText = "© 2024 Digitally Mi"
+showSearch = true
+showTags = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
