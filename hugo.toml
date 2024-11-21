@@ -1,23 +1,45 @@
 baseURL = 'https://dgmeeyuh.github.io/dgmi/'
 languageCode = 'en-us'
 title = 'digitally mi'
-description = 'Follow my journey in life and disc golf!'
+description = """
+Livin'
+Lovin'
+Disc Golfin'
+"""
 theme = "anatole"
 author = "Mia"
+profilePicture = "images/logo.png"
+copyright = "{{ YEAR }} Digitally Mi"
+showSearch = true
+showTags = true
 paginate = 5
 enableRobotsTXT = true
 googleAnalytics = "G-YE37X7B4QB"
 
-[params]
-email = "mia.g.lofton@gmail.com"
-github = "https://github.com/dgmeeyuh"
-linkedin = "https://linkedin.com/in/mialofton"
-instagram = "https://instagram.com/dgmi_"
-facebook = "https://facebook.com/dgmi116281"
-logo = "images/logo.png"
-footerText = "© 2024 Digitally Mi"
-showSearch = true
-showTags = true
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "email"
+url = "mailto:dgmi116281@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/dgmeeyuh"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "linkedin"
+url = "https://linkedin.com/in/mialofton"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://instagram.com/dgmi_"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "facebook"
+url = "https://facebook.com/dgmi116281"
 
 [taxonomies]
 tag = "tags"
@@ -25,15 +47,18 @@ category = "categories"
 
 [[menu.main]]
 name = "Home"
+identifier = "home"
 url = "/"
-weight = 1
+weight = 100
 
 [[menu.main]]
 name = "Blog"
+identifier = "blog"
 url = "/blog/"
-weight = 2
+weight = 200
 
 [[menu.main]]
 name = "About"
+identifier = "about"
 url = "/about/"
-weight = 3
+weight = 300
