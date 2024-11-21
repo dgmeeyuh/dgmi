@@ -5,7 +5,6 @@
     <link>https://dgmeeyuh.github.io/dgmi/categories/</link>
     <description>Recent content in Categories on digitally mi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>{{ YEAR }} Digitally Mi</copyright><atom:link href="https://dgmeeyuh.github.io/dgmi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dgmeeyuh.github.io/dgmi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
