@@ -2,6 +2,8 @@ baseURL = 'https://dgmeeyuh.github.io/dgmi/'
 languageCode = 'en-us'
 theme = "anatole"
 title = 'digitally mi'
+
+[params]
 description = """
 Livin'
 Lovin'
@@ -15,6 +17,7 @@ showTags = true
 paginate = 5
 enableRobotsTXT = true
 googleAnalytics = "G-YE37X7B4QB"
+
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
