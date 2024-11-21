@@ -1,12 +1,12 @@
 baseURL = 'https://dgmeeyuh.github.io/dgmi/'
 languageCode = 'en-us'
+theme = "anatole"
 title = 'digitally mi'
 description = """
 Livin'
 Lovin'
 Disc Golfin'
 """
-theme = "anatole"
 author = "Mia"
 profilePicture = "images/logo.png"
 copyright = "{{ YEAR }} Digitally Mi"
