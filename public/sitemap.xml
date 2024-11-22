@@ -2,17 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dgmeeyuh.github.io/dgmi/posts/_test/</loc>
+    <loc>http://localhost:1313/dgmi/about/_test/</loc>
+    <lastmod>2024-11-22T16:40:20-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/about/</loc>
+    <lastmod>2024-11-22T16:40:20-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/</loc>
+    <lastmod>2024-11-22T16:40:20-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/blog/</loc>
+    <lastmod>2024-11-22T16:31:35-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/blog/_four/</loc>
+    <lastmod>2024-11-22T16:31:35-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/blog/_three/</loc>
+    <lastmod>2024-11-22T16:31:30-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/blog/_two/</loc>
+    <lastmod>2024-11-22T16:31:09-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dgmi/home/_test/</loc>
     <lastmod>2024-11-20T20:05:29-06:00</lastmod>
   </url><url>
-    <loc>https://dgmeeyuh.github.io/dgmi/</loc>
+    <loc>http://localhost:1313/dgmi/home/</loc>
     <lastmod>2024-11-20T20:05:29-06:00</lastmod>
   </url><url>
-    <loc>https://dgmeeyuh.github.io/dgmi/posts/</loc>
-    <lastmod>2024-11-20T20:05:29-06:00</lastmod>
+    <loc>http://localhost:1313/dgmi/categories/</loc>
   </url><url>
-    <loc>https://dgmeeyuh.github.io/dgmi/categories/</loc>
-  </url><url>
-    <loc>https://dgmeeyuh.github.io/dgmi/tags/</loc>
+    <loc>http://localhost:1313/dgmi/tags/</loc>
   </url>
 </urlset>

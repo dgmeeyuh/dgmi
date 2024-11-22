@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on digitally mi</title>
+    <link>http://localhost:1313/dgmi/posts/</link>
+    <description>Recent content in Posts on digitally mi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Nov 2024 16:31:35 -0600</lastBuildDate><atom:link href="http://localhost:1313/dgmi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_Test</title>
+      <link>http://localhost:1313/dgmi/posts/_test/</link>
+      <pubDate>Wed, 20 Nov 2024 20:05:29 -0600</pubDate>
+      
+      <guid>http://localhost:1313/dgmi/posts/_test/</guid>
+      
+        <description>&lt;h1 id=&#34;testing-testing&#34;&gt;Testing, testing&amp;hellip;&lt;/h1&gt;
+&lt;h2 id=&#34;-1-2-3&#34;&gt;&amp;hellip; 1, 2, 3?&lt;/h2&gt;
+&lt;p&gt;Sorry to be corny! Just getting some content to see how we&amp;rsquo;re looking.&lt;/p&gt;
+&lt;p&gt;🚧&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

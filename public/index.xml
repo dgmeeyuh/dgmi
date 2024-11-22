@@ -2,17 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digitally mi</title>
-    <link>https://dgmeeyuh.github.io/dgmi/</link>
+    <link>http://localhost:1313/dgmi/</link>
     <description>Recent content on digitally mi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2024 20:05:29 -0600</lastBuildDate><atom:link href="https://dgmeeyuh.github.io/dgmi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Nov 2024 16:40:20 -0600</lastBuildDate><atom:link href="http://localhost:1313/dgmi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_Test</title>
-      <link>https://dgmeeyuh.github.io/dgmi/posts/_test/</link>
+      <link>http://localhost:1313/dgmi/about/_test/</link>
+      <pubDate>Fri, 22 Nov 2024 16:40:20 -0600</pubDate>
+      
+      <guid>http://localhost:1313/dgmi/about/_test/</guid>
+      
+        <description>&lt;p&gt;Just seeing how this page looks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Four</title>
+      <link>http://localhost:1313/dgmi/blog/_four/</link>
+      <pubDate>Fri, 22 Nov 2024 16:31:35 -0600</pubDate>
+      
+      <guid>http://localhost:1313/dgmi/blog/_four/</guid>
+      
+        <description>&lt;p&gt;Let&amp;rsquo;s gooooo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Three</title>
+      <link>http://localhost:1313/dgmi/blog/_three/</link>
+      <pubDate>Fri, 22 Nov 2024 16:31:30 -0600</pubDate>
+      
+      <guid>http://localhost:1313/dgmi/blog/_three/</guid>
+      
+        <description>&lt;p&gt;DJ KHALED!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>http://localhost:1313/dgmi/blog/_two/</link>
+      <pubDate>Fri, 22 Nov 2024 16:31:09 -0600</pubDate>
+      
+      <guid>http://localhost:1313/dgmi/blog/_two/</guid>
+      
+        <description>&lt;p&gt;Another one.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>_Test</title>
+      <link>http://localhost:1313/dgmi/home/_test/</link>
       <pubDate>Wed, 20 Nov 2024 20:05:29 -0600</pubDate>
       
-      <guid>https://dgmeeyuh.github.io/dgmi/posts/_test/</guid>
+      <guid>http://localhost:1313/dgmi/home/_test/</guid>
       
         <description>&lt;h1 id=&#34;testing-testing&#34;&gt;Testing, testing&amp;hellip;&lt;/h1&gt;
 &lt;h2 id=&#34;-1-2-3&#34;&gt;&amp;hellip; 1, 2, 3?&lt;/h2&gt;

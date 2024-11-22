@@ -12,12 +12,6 @@ Disc Golfin'
 author = "Mia"
 profilePicture = "images/logo.png"
 copyright = "{{ YEAR }} Digitally Mi"
-showSearch = true
-showTags = true
-paginate = 5
-enableRobotsTXT = true
-googleAnalytics = "G-YE37X7B4QB"
-
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
